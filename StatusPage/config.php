@@ -29,7 +29,7 @@ $alertMessage = 'We are working on the downtime';
 
 //checks to exclude from the status page. This info can be found in the UptimeRobot URL for each check
 //$excludedchecks = array("776396792", "776396743");
-$excludedChecks = array();
+$excludedChecks = array('776544579');
 
 //Show a link to your twitter in the nav bar
 $showTwitter = False;
